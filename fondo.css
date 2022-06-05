@@ -1,0 +1,21 @@
+body{
+    background-image: url("fondo1.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+h1{
+    background: #800080;
+    color: rgb(15, 11, 11);
+    padding: 29px;
+    width: 500px;
+    border-radius: 10px;
+}
+h2{
+    background: #e11be1;
+    color: rgb(15, 11, 11);
+    padding: 29px;
+    width: 500px;
+    border-radius: 10px;
+}
